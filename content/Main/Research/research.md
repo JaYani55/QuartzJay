@@ -10,3 +10,4 @@ title: Research
 
 ### [[(Research Paper) VRChat - Cyborg Playground]]
 
+### [[(German, Essay) Interfacing As Ethnographic Method]]

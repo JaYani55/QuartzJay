@@ -1,13 +1,27 @@
 ---
 title: VRChat - Cyborg Playground
 ---
+This research paper has been written for the seminar 'Community Formation in Digital Games' by Dr. [Dom Ford](https://domford.net/), at the University of Bremen in the summer of 2023.
 # Abstract
+
+## Simplified Abstract
+
+This paper takes a close look at how people and technology mix together in the world of Virtual Reality (VR), especially focusing on a virtual place called VRChat. Imagine VR like a digital playground where you can create your own avatar and interact with others in a completely computer-generated world. The study uses ideas from famous thinkers and the author's own experiences in VR to understand how these digital spaces work and what they mean for us as humans.
+
+The main point is to see how VR is not just about cool tech but also about who can or cannot use this tech based on things like money, knowledge, and physical ability. For example, not everyone can afford the best VR equipment, and some people might get dizzy or feel sick in VR. The paper also looks at how people express themselves in VR, like choosing how their avatars look and act, which can sometimes turn into a digital form of showing off or even making money.
+
+However, the paper finds that even in a place where everyone is supposed to be equal because they're all just avatars, real-world problems like not having enough money or being judged by others can still sneak in. So, while VR can be a fun and exciting way to meet people and do things you can't do in real life, it also shows us that we have to think carefully about making these spaces fair and open for everyone.
+
+In short, this paper digs into the complicated relationship between humans and their gadgets in the VR world, showing both the cool possibilities and the challenges we need to work on.
+
+## Academic Abstract
 
 This paper explores the intricate relationship between humans and technology within the realm of Virtual Reality (VR), particularly focusing on VRChat as a social space that exemplifies the cyborg ontology proposed by Donna Haraway and further elaborated through concepts of machinic assemblage by Deleuze and Guattari. By engaging with Actor-Network Theory (ANT) for its methodological framework, the study delves into the socio-material configurations of VR, challenging traditional dichotomies of human/machine and reality/virtuality. The research employs an autoethnographic approach to examine the accessibility of VR technology, revealing systemic inequities embedded in the human-hardware assemblages. Through the lens of sensory anthropology, it investigates how VR as sensory machines shape and are shaped by cultural codings of sensory inputs, highlighting the transformation of perception and interaction within digital environments.
 
 The paper critically analyzes the socioeconomic barriers to VR engagement, emphasizing the role of hardware configurations, bodily acclimatization to VR spaces, and the nuanced dynamics of digital embodiment. It interrogates the phenomenon of cyborg erotica within VRChat, mapping out how digital bodies become sites of desire, identity expression, and economic activity, thereby complicating notions of digital dualism. The study underscores the paradoxical nature of VR spaces, where the potential for democratization and radical embodiment coexists with new forms of exclusion and inequality.
 
 By situating VRChat within the broader discourse of posthumanism and digital culture, Rathjen's work contributes to a nuanced understanding of the digital as a lived experience. It calls for a more inclusive design and ethical consideration in the development of VR technologies, advocating for a future where digital spaces facilitate not only novel forms of interaction but also equitable access and representation.
+
 
 # Content
 
