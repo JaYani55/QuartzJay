@@ -79,11 +79,14 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine
 
 ``` powershell
 pip install selenium
-pip install beautifulsoup4
 pip install bs4
 pip install datetime
 pip install pandas
 pip install requests
+pip install subprocess
+pip install logging
+pip install importlib
+pip install configparser
 ```
 
 4. Install webdriver
