@@ -1,6 +1,8 @@
 ---
 title: VRChat - Cyborg Playground
 ---
+Jay Rathjen
+
 This research paper has been written for the seminar 'Community Formation in Digital Games' by Dr. [Dom Ford](https://domford.net/), at the University of Bremen in the summer of 2023.
 # Abstract
 
@@ -228,7 +230,7 @@ However, the avatar that is produced by and performed within the human-hardware 
 
 VRChat is an example of a community that has formed in a digital environment through the activity of play. Not play with a centrally designed ludic system but play with their own human-hardware bodies, carving functional and symbolically meaningful spaces out of the material of code. VRChat as a platform deploys interesting ways to reconciliate the freedom of letting users create and share their own content with accessibility for as many users as possible. VR technology and VR social spaces as well as games offer many interesting vantage points for games studies as well as new materialist body studies and science and technology studies.
 
-  
+Jay Rathjen
 
 **Literature**
 
