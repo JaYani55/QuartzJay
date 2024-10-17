@@ -11,9 +11,6 @@ This project has since moved into production.
 # Webscraper
 
 Neues Paradigma: Labor Market OSINT Tool
-- Deep analysis of company job postings, spezifische companies (Input data, company name, Career Page URL)
-- Weiterentwicklung zu den basic requirements für Inklupreneur (Aber erstmal das fertig machen)
-- Tbh, kein GUI notwendig, würde zu viel Zeit kosten. Terminal reicht.
 
 
 # DevLog
