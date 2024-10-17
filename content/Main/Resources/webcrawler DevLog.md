@@ -2,7 +2,10 @@
 
 [How to Build a Web Scraper With Python [Step-by-Step Guide] | HackerNoon](https://hackernoon.com/how-to-build-a-web-scraper-with-python-step-by-step-guide-jxkp3yum)
 
-[[Inklutech]]
+# About this Project
+
+The Jobs webcrawler was a prototype for an applicant tracking solution that uses automatically updating webscrapers to construct a jobs recommendation algorithm for the project 'Inklupreneur'. Inklupreneur is a non-profit project for the inclusion of people with disabilities in Bremen, Germany.
+This project has since moved into production.
 
 [JaYani55/Jobs-Webcrawler-Inklu (github.com)](https://github.com/JaYani55/Jobs-Webcrawler-Inklu)
 # Webscraper
@@ -29,16 +32,6 @@ Neues Paradigma: Labor Market OSINT Tool
 - [x] Einzelcrawler zusammenführen
 - [x] Dataframe speichern Zwischenschritt
 - [x] Seatable Übertragung abgetrennt
-- [ ] Replizieren für alle Unternehmen
-- [x] Abgleichfunktion (GET ST, vergleich mit Crawl nach gelöschten Einträgen, markieren)
-- [ ] GPT Datafizierungsagent ersetzen mit OpenAI-API (Mistral AI?)
-- [ ] GUI
-- [ ] Optionen, bestimmte Crawls auswählen, Abgleich auswählen
-- [ ] Einbindung, Inklupreneur
-- [ ] Start [[OSINT]] Labor Analysis ([[LOSINT]])
-- [ ] Github Project, fork of Inklu Version
-- [ ] Scraper Funktionalitäten
-- [ ] Datafizierungsfunktionalitäten
 
 ## Development
 
